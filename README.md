@@ -9,7 +9,7 @@ The whole idea of this application is to combat food waste. The way it does it i
 ## What tools have been used?
 * HTML
 * Ionic framework
-* API- <a href="https://www.themealdb.com/api.php">
+* API- https://www.themealdb.com/api.php
 
 ## What  can be improved?
 * In the home page, after you get the meal usggestion the video link button is not working.
