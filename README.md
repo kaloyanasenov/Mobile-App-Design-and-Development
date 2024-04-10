@@ -1,10 +1,13 @@
-# Mobile-App-Design-and-Development
+Mobile-App-Design-and-Development
 Mobile app developed for the CM3131 module(Mobile App Design and Development) 
 
 # Food leftovers meal suggesting app
 
 ## What this app does?
 The whole idea of this application is to combat food waste. The way it does it is by giving the user some suggestion on what meals they can make, by asking for one main ingredient. Another additional function is random meal idea generation. ANd you can always go look back in your history for your last searches.
+
+## How to use the app?
+The intended way is to open the index file in Chrome and witht he inspect tool apply mobile view. From there you can navigate with the tab bar at the bottom, write in text boxes and click the blue buttons.
 
 ## What tools have been used?
 * HTML
